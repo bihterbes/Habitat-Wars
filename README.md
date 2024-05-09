@@ -65,3 +65,7 @@ The relationships between creatures are as follows:
 - Fly → Bug
 - Bug → Flea
 
+
+
+a bc  dş d
+
