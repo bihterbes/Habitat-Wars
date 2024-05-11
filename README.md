@@ -65,5 +65,7 @@ The relationships between creatures are as follows:
 - Fly → Bug
 - Bug → Flea
 
-
+# How To Use
+Open folder with CMD then write "mingw32-make"
+You can change the data by changing Veri.txt file in the .../doc/Veri.txt
 
