@@ -67,24 +67,3 @@ The relationships between creatures are as follows:
 
 
 
-a bc  
-
-
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-d
-
-d d
-
