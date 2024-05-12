@@ -74,7 +74,8 @@ d
 d
 d
 d
-d
+):₺:?:₺:!:/!
+jdmdndndm
 fkamjdd
 dkdmdnd
 
