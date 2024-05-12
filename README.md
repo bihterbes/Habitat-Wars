@@ -68,4 +68,14 @@ The relationships between creatures are as follows:
 # How To Use
 - Open folder with CMD then write "mingw32-make"
 - You can change the data by changing Veri.txt file in the .../doc/Veri.txt
+d
+d
+d
+d
+d
+d
+d
+fkamjdd
+dkdmdnd
 
+djs
